@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohil</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-- 🔭 I’m currently working on **Yelp Camp**
+- 🔭 I’m currently working on **Escape Grouds**
 
 - 🌱 I’m currently learning **ReactJS**
 
